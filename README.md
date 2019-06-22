@@ -35,7 +35,8 @@ Not ideal for Large sized images
 
 Citation:
 
-If you are using this code, please use this citation:
+If you use this code in your work then please cite the paper - [Lossy Image Compression using Frequent Pattern Mining based Huffman Encoding](https://ieeexplore.ieee.org/abstract/document/8487850) with the following:
+```
 @INPROCEEDINGS{8487850, 
 author={S. {Biswas} and N. {Chennu} and H. {Valveti} and C. {Oswald} and B. {Sivaselvan}}, 
 booktitle={2017 14th IEEE India Council International Conference (INDICON)}, 
@@ -48,3 +49,4 @@ keywords={data compression;data mining;discrete cosine transforms;Huffman codes;
 doi={10.1109/INDICON.2017.8487850}, 
 ISSN={2325-9418}, 
 month={Dec},}
+```
