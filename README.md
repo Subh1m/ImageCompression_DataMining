@@ -1,13 +1,13 @@
-# Image_Compression_Data_Mining
+# Image Compression Data Mining
 
 This system has been created to perform improved compression using Data Mining Algorithms.
 
 ### Running Instructions:
-1. Jepeg_Haufmann.m
-2. testf2.m
-3. decode.m
-4. combine.m
-5. measures.m
+1. `Jepeg_Haufmann.m` - > This performs the jpeg compression
+2. `testf2.m` -> This performs the pattern mining and huffman encoding
+3. `decode.m` -> This performs the decoding
+4. `combine.m` -> This combines all the files
+5. `measures.m` -> This provides the metrics
 
 ###    Algorithms used:
 1. JPEG Compression
